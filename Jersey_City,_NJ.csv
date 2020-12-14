@@ -1,0 +1,40 @@
+,address,bedrooms,bathrooms,sqft,type,sold last year,link
+0,"50 Reservoir Ave APT 502, Jersey City, NJ 07307",1,1,537,Condo,No,https://www.zillow.com/homedetails/50-Reservoir-Ave-APT-502-Jersey-City-NJ-07307/38894035_zpid/
+1,"122 River St #D-202, Jersey City, NJ 07302",2,2,"1,500",Townhouse,No,https://www.zillow.com/homedetails/122-River-St-D-202-Jersey-City-NJ-07302/2076877381_zpid/
+2,"199 Delaware Ave, Jersey City, NJ 07306",5,2,"1,728",Multiple Occupancy,No,https://www.zillow.com/homedetails/199-Delaware-Ave-Jersey-City-NJ-07306/38909505_zpid/
+3,"93 1/2 Orient Ave, Jersey City, NJ 07305",2,2,--,Multiple Occupancy,No,https://www.zillow.com/homedetails/93-1-2-Orient-Ave-Jersey-City-NJ-07305/2076885700_zpid/
+4,"2672 Kennedy Blvd #404, Jersey City, NJ 07306",1,1,560,Condo,No,https://www.zillow.com/homedetails/2672-Kennedy-Blvd-404-Jersey-City-NJ-07306/2076886303_zpid/
+5,"122 River St #D, Jersey City, NJ 07302",2,2,"1,500",Townhouse,No,https://www.zillow.com/homedetails/122-River-St-D-Jersey-City-NJ-07302/2076887238_zpid/
+6,"60 Erie St APT 301, Jersey City, NJ 07302",2,1,996,Condo,No,https://www.zillow.com/homedetails/60-Erie-St-APT-301-Jersey-City-NJ-07302/92209120_zpid/
+7,"75 Park Ln S APT 307, Jersey City, NJ 07310",1,2,864,Single Family,No,https://www.zillow.com/homedetails/75-Park-Ln-S-APT-307-Jersey-City-NJ-07310/325530920_zpid/
+8,"75 Park Ln S APT 3403, Jersey City, NJ 07310",3,3,"1,808",Single Family,No,https://www.zillow.com/homedetails/75-Park-Ln-S-APT-3403-Jersey-City-NJ-07310/325531178_zpid/
+9,"217 Newark Ave APT 214, Jersey City, NJ 07302",2,2,945,Condo,No,https://www.zillow.com/homedetails/217-Newark-Ave-APT-214-Jersey-City-NJ-07302/108630171_zpid/
+10,"1870 Kennedy Blvd APT 1D, Jersey City, NJ 07305",1,1,600,Condo,No,https://www.zillow.com/homedetails/1870-Kennedy-Blvd-APT-1D-Jersey-City-NJ-07305/2077082635_zpid/
+11,"135 Montgomery St APT 2H, Jersey City, NJ 07302",2,1,720,Condo,No,https://www.zillow.com/homedetails/135-Montgomery-St-APT-2H-Jersey-City-NJ-07302/2096203518_zpid/
+12,"320 Grand St #1, Jersey City, NJ 07302",3,3,"1,840",Condo,No,https://www.zillow.com/homedetails/320-Grand-St-1-Jersey-City-NJ-07302/2101936601_zpid/
+13,"47 Locust St, Jersey City, NJ 07305",3,3,"1,988",Townhouse,No,https://www.zillow.com/homedetails/47-Locust-St-Jersey-City-NJ-07305/239946506_zpid/
+14,"2 2nd St APT 1406, Jersey City, NJ 07302",1,2,944,Condo,No,https://www.zillow.com/homedetails/2-2nd-St-APT-1406-Jersey-City-NJ-07302/108630526_zpid/
+15,"94 Pamrapo Ave #2, Jersey City, NJ 07305",3,3,"1,500",Townhouse,No,https://www.zillow.com/homedetails/94-Pamrapo-Ave-2-Jersey-City-NJ-07305/2078036273_zpid/
+16,"2087 John F Kennedy Blvd, Jersey City, NJ 07305",4,2,"1,340",Single Family,No,https://www.zillow.com/homedetails/2087-John-F-Kennedy-Blvd-Jersey-City-NJ-07305/38904712_zpid/
+17,"28 Trenton St, Jersey City, NJ 07306",7,4,"2,360",Multiple Occupancy,Yes,https://www.zillow.com/homedetails/28-Trenton-St-Jersey-City-NJ-07306/38891092_zpid/
+18,"53 Duncan Ave APT 33, Jersey City, NJ 07304",2,1,"1,097",Condo,Yes,https://www.zillow.com/homedetails/53-Duncan-Ave-APT-33-Jersey-City-NJ-07304/38913040_zpid/
+19,"109 Sussex St, Jersey City, NJ 07302",4,6,"3,828",Single Family,No,https://www.zillow.com/homedetails/109-Sussex-St-Jersey-City-NJ-07302/38887865_zpid/
+20,"22 Rutgers Ave, Jersey City, NJ 07305",10,4,"3,807",Multiple Occupancy,No,https://www.zillow.com/homedetails/22-Rutgers-Ave-Jersey-City-NJ-07305/38906252_zpid/
+21,"140 Sterling Ave, Jersey City, NJ 07305",5,2,"2,239",Multiple Occupancy,No,https://www.zillow.com/homedetails/140-Sterling-Ave-Jersey-City-NJ-07305/38902696_zpid/
+22,"201 Marin Blvd APT 7060, Jersey City, NJ 07302",3,2,"1,805",Condo,No,https://www.zillow.com/homedetails/201-Marin-Blvd-APT-7060-Jersey-City-NJ-07302/248881254_zpid/
+23,"135 Montgomery St APT 19H, Jersey City, NJ 07302",2,1,720,Condo,No,https://www.zillow.com/homedetails/135-Montgomery-St-APT-19H-Jersey-City-NJ-07302/2076902678_zpid/
+24,"201 Luis M Marin Blvd #7060, Jersey City, NJ 07302",3,2,"1,805",Condo,No,https://www.zillow.com/homedetails/201-Luis-M-Marin-Blvd-7060-Jersey-City-NJ-07302/2078308946_zpid/
+25,"340 Saint Pauls Ave FLOOR 1, Jersey City, NJ 07306",4,3,--,Condo,No,https://www.zillow.com/homedetails/340-Saint-Pauls-Ave-FLOOR-1-Jersey-City-NJ-07306/2076905541_zpid/
+26,"2 Hemlock St, Jersey City, NJ 07305",3,3,"1,988",Townhouse,No,https://www.zillow.com/homedetails/2-Hemlock-St-Jersey-City-NJ-07305/38904239_zpid/
+27,"105 Erie St #7001, Jersey City, NJ 07302",1,1,650,Condo,No,https://www.zillow.com/homedetails/105-Erie-St-7001-Jersey-City-NJ-07302/38889183_zpid/
+28,"172 Culver Ave APT 502, Jersey City, NJ 07305",2,2,"1,332",Condo,No,https://www.zillow.com/homedetails/172-Culver-Ave-APT-502-Jersey-City-NJ-07305/82170467_zpid/
+29,"104 Palisade Ave APT B2, Jersey City, NJ 07306",1,1,755,Condo,No,https://www.zillow.com/homedetails/104-Palisade-Ave-APT-B2-Jersey-City-NJ-07306/38891520_zpid/
+30,"42 Zabriskie St, Jersey City, NJ 07307",6,5,"2,400",Multiple Occupancy,No,https://www.zillow.com/homedetails/42-Zabriskie-St-Jersey-City-NJ-07307/38896965_zpid/
+31,"100 Manhattan Ave APT 2104, Union City, NJ 07087",1,1,695,Condo,No,https://www.zillow.com/homedetails/100-Manhattan-Ave-APT-2104-Union-City-NJ-07087/2129011896_zpid/
+32,"63 Lexington Ave, Jersey City, NJ 07304",9,4,"2,200",Multiple Occupancy,No,https://www.zillow.com/homedetails/63-Lexington-Ave-Jersey-City-NJ-07304/38911879_zpid/
+33,"85 Broadway APT 2F, Jersey City, NJ 07306",2,1,"1,058",Condo,No,https://www.zillow.com/homedetails/85-Broadway-APT-2F-Jersey-City-NJ-07306/2114657211_zpid/
+34,"277 3rd St APT 4, Jersey City, NJ 07302",1,1,638,Townhouse,No,https://www.zillow.com/homedetails/277-3rd-St-APT-4-Jersey-City-NJ-07302/72245181_zpid/
+35,"100 Manhattan Ave APT 1911, Union City, NJ 07087",1,1,770,Condo,No,https://www.zillow.com/homedetails/100-Manhattan-Ave-APT-1911-Union-City-NJ-07087/2130058093_zpid/
+36,"260 Harrison Ave APT 204, Jersey City, NJ 07304",3,2,"1,415",Condo,No,https://www.zillow.com/homedetails/260-Harrison-Ave-APT-204-Jersey-City-NJ-07304/38912485_zpid/
+37,"101 Shearwater Ct E APT 41, Jersey City, NJ 07305",2,2,--,Condo,No,https://www.zillow.com/homedetails/101-Shearwater-Ct-E-APT-41-Jersey-City-NJ-07305/2076918628_zpid/
+38,"201 Marin Blvd APT 1311, Jersey City, NJ 07302",2,2,"1,489",Condo,No,https://www.zillow.com/homedetails/201-Marin-Blvd-APT-1311-Jersey-City-NJ-07302/108632749_zpid/
